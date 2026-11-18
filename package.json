@@ -13,9 +13,11 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.5",
+    "axios": "^1.21.1",
     "cors": "^2.8.6",
     "dotenv": "^18.0.10",
     "express": "^5.1.0",
+    "lucide-react": "^1.74.0",
     "mssql": "^12.7.14",
     "mysql2": "^2.3.3",
     "react": "^19.3.1",
